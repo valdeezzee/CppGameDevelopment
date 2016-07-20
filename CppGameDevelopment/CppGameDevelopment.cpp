@@ -137,6 +137,7 @@ int main()
 	*/
 
 	//hero inventory 3.0 using iterators with vectors
+	/*
 	vector<string> inventory;
 	inventory.push_back("sword");
 	inventory.push_back("armor");
@@ -181,5 +182,6 @@ int main()
 	{
 		cout << *iter << endl;
 	}
+	*/
 }
 
